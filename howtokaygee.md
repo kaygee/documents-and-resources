@@ -59,6 +59,6 @@ Hi, welcome to my manual!
 
 - I like being outside in nature.
 - I'm a family guy and I enjoy spending time with my wife and kids.
-- I believe in that in order to have a healthy mind you must have a healthy body.
-- I push myself to accomplish things that are outside of my comfort zone. This might include ultra-marathon trail runs or working on a car.
-- 
+- I believe in that in order to have a healthy mind you need a healthy body.
+- I try to do things that are outside of my comfort zone. 
+  - This might include ultra-marathon trail runs or changing the air-conditioning compressor on my car.
