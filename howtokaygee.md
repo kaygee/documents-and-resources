@@ -7,12 +7,14 @@ Hi, welcome to my manual!
 - I like to get things done.
 - I like tools and workflows that help me get work done.
 - I enjoy crossing finish lines. Whether that's in delivering software, or racing bicycles/running/triathlon.
+- Typically, I'm "alright" being alone for long periods of time. However, I enjoy interacting with people.
 - I've been accussed of not being assertive enough.
   - This isn't because I don't have an opinion.
   - This isn't because I don't care.
   - I like to gather evidence and opinions and consider outcomes.
   - I'm interested in continuous improvement. It's likely I'll try anything once to try and get improvement.
   - I'm interested in gathering experience, so it's likely I'll try anything.
+  - I'm more interested in succeeding as a group, so if it seems like the needs of the many will be met I'll try it.
 - I take active breaks.
 - There are many times that I'll come up with a solution to a problem while taking an "active break".
 - I love lists.
@@ -65,8 +67,9 @@ Hi, welcome to my manual!
 
 ## What I value "outside of work"
 
-- I like being outside in nature.
+- I like being outside experiencing nature.
+  - Usually, this means "human powered transport", like running, cycling, kayaking, etc...
 - I'm a family guy and I enjoy spending time with my wife and kids.
 - I believe in that in order to have a healthy mind you need a healthy body.
-- I try to do things that are outside of my comfort zone. 
+- I try to do things that are outside of my comfort zone.
   - This might include ultra-marathon trail runs or changing the air-conditioning compressor on my car.
