@@ -6,7 +6,13 @@ Hi, welcome to my manual!
 
 - I like to get things done.
 - I like tools and workflows that help me get work done.
-- I enjoy crossing finish line. Whether that's in delivering software, or physically racing.
+- I enjoy crossing finish lines. Whether that's in delivering software, or racing bicycles/running/triathlon.
+- I've been accussed of not being assertive enough.
+  - This isn't because I don't have an opinion.
+  - This isn't because I don't care.
+  - I like to gather evidence and opinions and consider outcomes.
+  - I'm interested in continuous improvement. It's likely I'll try anything once to try and get improvement.
+  - I'm interested in gathering experience, so it's likely I'll try anything.
 - I take active breaks.
 - There are many times that I'll come up with a solution to a problem while taking an "active break".
 - I love lists.
@@ -17,7 +23,9 @@ Hi, welcome to my manual!
 - Sometimes I get in the zone after hours and commit code. I don't expect you to do this.
 - I like getting feedback and enjoy talking about possibilities.
 - I'm sarcastic and enjoy finding oddities in code/technology/etc... sometimes it might seem like I'm pessimistic about our ability to succeed.
-- After I create something I usually "hate" it after a couple days. I usually feel compelled to refactor. I believe that small incremental changes add up to positive results.
+- After I create something I usually "hate" it after a couple days.
+  - I almost always feel compelled to refactor.
+  - I believe that small incremental changes can add up to positive results.
 - I like to think that we're releasing tested and working softwarer to our users and customers.
 
 ## What I value "at work"
