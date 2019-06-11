@@ -4,6 +4,8 @@ Hi, welcome to my manual!
 
 ## My style
 
+- I like taking things apart to see how things work. I also like putting things back together.
+- I enjoy the feeling that "everything is in order"
 - I like to get things done.
 - I like tools and workflows that help me get work done.
 - I enjoy crossing finish lines. Whether that's in delivering software, or racing bicycles/running/triathlon.
